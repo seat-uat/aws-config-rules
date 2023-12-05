@@ -94,6 +94,7 @@ import dateutil.parser
 import re
 import boto3
 import botocore
+import os
 
 ##############
 # Parameters #
