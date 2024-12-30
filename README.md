@@ -51,3 +51,4 @@ Add a rule to AWS Config by completing the following steps. For more detailed st
 	- **Note**: When you create a custom rule with the AWS Config console, the appropriate permissions for invoking the Lambda are automatically created for you. If you create a custom rule with the AWS CLI, you need to give AWS Config permission to invoke your Lambda function, using the `aws lambda add-permission` command.
 
 After you create the rule, it displays on the **Rules** page, and AWS Config invokes its Lambda function. A summary of the evaluation results appears after several minutes.
+adefasdfadsfasdf
