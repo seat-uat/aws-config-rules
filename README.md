@@ -22,7 +22,7 @@ Whenever the rules are created with RDK, you can leverage the RDK tool to deploy
 In your working folder,
 ```
 git clone https://github.com/awslabs/aws-config-rules
-cd python
+cd pythonsdfgsdfg
 rdk deploy NAME_OF_THE_RULE
 ```
 
