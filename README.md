@@ -52,5 +52,7 @@ Add a rule to AWS Config by completing the following steps. For more detailed st
 
 After you create the rule, it displays on the **Rules** page, and AWS Config invokes its Lambda function. A summary of the evaluation results appears after several minutes.
 adefasdfadsfasdf
+adfasdfasdfdsgdfg
+
 ddddddddddddddddddddddd
 gggggggggggggggggggggggg
